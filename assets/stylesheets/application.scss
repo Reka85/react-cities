@@ -12,6 +12,7 @@ body {
   }
   .active-city {
     width: 70%;
+    height: 100vh;
     margin-left: 20px;
     margin-bottom: 20px;
     padding: 10px 15px;
@@ -19,6 +20,9 @@ body {
     border-radius: 4px;
     h3 {
       margin-top: 0;
+    }
+    img{
+      width: 100%;
     }
   }
 }

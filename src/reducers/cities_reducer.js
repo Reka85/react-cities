@@ -1,5 +1,5 @@
 export default function(state, action){
-  if(state === undefined){
+  if (state === undefined){
     return [];
   }
 
